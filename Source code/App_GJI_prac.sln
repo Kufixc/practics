@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App_GJI_prac", "App_GJI_prac\App_GJI_prac.csproj", "{27E961B8-BE92-457B-80C9-AD9656D5917B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test_GJI_APP", "Test_GJI_APP\Test_GJI_APP.csproj", "{180AE933-6707-4AA2-A223-FEEC7BC40395}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27E961B8-BE92-457B-80C9-AD9656D5917B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27E961B8-BE92-457B-80C9-AD9656D5917B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27E961B8-BE92-457B-80C9-AD9656D5917B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27E961B8-BE92-457B-80C9-AD9656D5917B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{180AE933-6707-4AA2-A223-FEEC7BC40395}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{180AE933-6707-4AA2-A223-FEEC7BC40395}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{180AE933-6707-4AA2-A223-FEEC7BC40395}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{180AE933-6707-4AA2-A223-FEEC7BC40395}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7FAC48D6-9607-44FA-8034-EFEF0F25C637}
+	EndGlobalSection
+EndGlobal

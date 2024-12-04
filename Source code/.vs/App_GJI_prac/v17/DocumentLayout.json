@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\david\\source\\repos\\App_GJI_prac\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{27E961B8-BE92-457B-80C9-AD9656D5917B}|App_GJI_prac\\App_GJI_prac.csproj|C:\\Users\\david\\source\\repos\\App_GJI_prac\\app_gji_prac\\formreports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{27E961B8-BE92-457B-80C9-AD9656D5917B}|App_GJI_prac\\App_GJI_prac.csproj|solutionrelative:app_gji_prac\\formreports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27E961B8-BE92-457B-80C9-AD9656D5917B}|App_GJI_prac\\App_GJI_prac.csproj|C:\\Users\\david\\source\\repos\\App_GJI_prac\\app_gji_prac\\avtorizationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{27E961B8-BE92-457B-80C9-AD9656D5917B}|App_GJI_prac\\App_GJI_prac.csproj|solutionrelative:app_gji_prac\\avtorizationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27E961B8-BE92-457B-80C9-AD9656D5917B}|App_GJI_prac\\App_GJI_prac.csproj|C:\\Users\\david\\source\\repos\\App_GJI_prac\\app_gji_prac\\addoreditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{27E961B8-BE92-457B-80C9-AD9656D5917B}|App_GJI_prac\\App_GJI_prac.csproj|solutionrelative:app_gji_prac\\addoreditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27E961B8-BE92-457B-80C9-AD9656D5917B}|App_GJI_prac\\App_GJI_prac.csproj|C:\\Users\\david\\source\\repos\\App_GJI_prac\\app_gji_prac\\addoredituserform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27E961B8-BE92-457B-80C9-AD9656D5917B}|App_GJI_prac\\App_GJI_prac.csproj|solutionrelative:app_gji_prac\\addoredituserform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{180AE933-6707-4AA2-A223-FEEC7BC40395}|Test_GJI_APP\\Test_GJI_APP.csproj|C:\\Users\\david\\source\\repos\\App_GJI_prac\\test_gji_app\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{180AE933-6707-4AA2-A223-FEEC7BC40395}|Test_GJI_APP\\Test_GJI_APP.csproj|solutionrelative:test_gji_app\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27E961B8-BE92-457B-80C9-AD9656D5917B}|App_GJI_prac\\App_GJI_prac.csproj|C:\\Users\\david\\source\\repos\\App_GJI_prac\\app_gji_prac\\avtorizationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27E961B8-BE92-457B-80C9-AD9656D5917B}|App_GJI_prac\\App_GJI_prac.csproj|solutionrelative:app_gji_prac\\avtorizationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27E961B8-BE92-457B-80C9-AD9656D5917B}|App_GJI_prac\\App_GJI_prac.csproj|C:\\Users\\david\\source\\repos\\App_GJI_prac\\app_gji_prac\\addoredituserform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{27E961B8-BE92-457B-80C9-AD9656D5917B}|App_GJI_prac\\App_GJI_prac.csproj|solutionrelative:app_gji_prac\\addoredituserform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27E961B8-BE92-457B-80C9-AD9656D5917B}|App_GJI_prac\\App_GJI_prac.csproj|c:\\users\\david\\source\\repos\\app_gji_prac\\app_gji_prac\\formreports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27E961B8-BE92-457B-80C9-AD9656D5917B}|App_GJI_prac\\App_GJI_prac.csproj|solutionrelative:app_gji_prac\\formreports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27E961B8-BE92-457B-80C9-AD9656D5917B}|App_GJI_prac\\App_GJI_prac.csproj|C:\\Users\\david\\source\\repos\\App_GJI_prac\\app_gji_prac\\addoreditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27E961B8-BE92-457B-80C9-AD9656D5917B}|App_GJI_prac\\App_GJI_prac.csproj|solutionrelative:app_gji_prac\\addoreditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 200,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddOrEditForm.cs",
+              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\App_GJI_prac\\App_GJI_prac\\AddOrEditForm.cs",
+              "RelativeDocumentMoniker": "App_GJI_prac\\AddOrEditForm.cs",
+              "ToolTip": "C:\\Users\\david\\source\\repos\\App_GJI_prac\\App_GJI_prac\\AddOrEditForm.cs",
+              "RelativeToolTip": "App_GJI_prac\\AddOrEditForm.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAwwBAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T05:43:44.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormReports.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\App_GJI_prac\\App_GJI_prac\\FormReports.cs",
+              "RelativeDocumentMoniker": "App_GJI_prac\\FormReports.cs",
+              "ToolTip": "C:\\Users\\david\\source\\repos\\App_GJI_prac\\App_GJI_prac\\FormReports.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "App_GJI_prac\\FormReports.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T07:45:27.409Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormReports.cs",
+              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\App_GJI_prac\\App_GJI_prac\\FormReports.cs",
+              "RelativeDocumentMoniker": "App_GJI_prac\\FormReports.cs",
+              "ToolTip": "C:\\Users\\david\\source\\repos\\App_GJI_prac\\App_GJI_prac\\FormReports.cs",
+              "RelativeToolTip": "App_GJI_prac\\FormReports.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T09:11:56.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AvtorizationForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\App_GJI_prac\\App_GJI_prac\\AvtorizationForm.cs",
+              "RelativeDocumentMoniker": "App_GJI_prac\\AvtorizationForm.cs",
+              "ToolTip": "C:\\Users\\david\\source\\repos\\App_GJI_prac\\App_GJI_prac\\AvtorizationForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "App_GJI_prac\\AvtorizationForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T07:46:28.169Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddOrEditUserForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\App_GJI_prac\\App_GJI_prac\\AddOrEditUserForm.cs",
+              "RelativeDocumentMoniker": "App_GJI_prac\\AddOrEditUserForm.cs",
+              "ToolTip": "C:\\Users\\david\\source\\repos\\App_GJI_prac\\App_GJI_prac\\AddOrEditUserForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "App_GJI_prac\\AddOrEditUserForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T12:47:02.296Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AvtorizationForm.cs",
+              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\App_GJI_prac\\App_GJI_prac\\AvtorizationForm.cs",
+              "RelativeDocumentMoniker": "App_GJI_prac\\AvtorizationForm.cs",
+              "ToolTip": "C:\\Users\\david\\source\\repos\\App_GJI_prac\\App_GJI_prac\\AvtorizationForm.cs",
+              "RelativeToolTip": "App_GJI_prac\\AvtorizationForm.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAowEkAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T04:17:15.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\App_GJI_prac\\Test_GJI_APP\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "Test_GJI_APP\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\david\\source\\repos\\App_GJI_prac\\Test_GJI_APP\\UnitTest1.cs",
+              "RelativeToolTip": "Test_GJI_APP\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T06:18:36.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddOrEditUserForm.cs",
+              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\App_GJI_prac\\App_GJI_prac\\AddOrEditUserForm.cs",
+              "RelativeDocumentMoniker": "App_GJI_prac\\AddOrEditUserForm.cs",
+              "ToolTip": "C:\\Users\\david\\source\\repos\\App_GJI_prac\\App_GJI_prac\\AddOrEditUserForm.cs",
+              "RelativeToolTip": "App_GJI_prac\\AddOrEditUserForm.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAADwvyIAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T12:44:53.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddOrEditForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\App_GJI_prac\\App_GJI_prac\\AddOrEditForm.cs",
+              "RelativeDocumentMoniker": "App_GJI_prac\\AddOrEditForm.cs",
+              "ToolTip": "C:\\Users\\david\\source\\repos\\App_GJI_prac\\App_GJI_prac\\AddOrEditForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "App_GJI_prac\\AddOrEditForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T06:05:10.74Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
